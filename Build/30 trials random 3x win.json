@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slot-Simulator",
+"dataUrl": "30 trials random 3x win.data.unityweb",
+"wasmCodeUrl": "30 trials random 3x win.wasm.code.unityweb",
+"wasmFrameworkUrl": "30 trials random 3x win.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
